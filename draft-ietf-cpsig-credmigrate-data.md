@@ -19,18 +19,17 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Credential Migration Data"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-ietf-cpsig-credmigrate-data.md
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
-number:
+number: 00 
 date:
 consensus: true
 v: 3
 area: AREA
-workgroup: WG Working Group
+workgroup: None
 keyword:
  - next generation
  - unicorn
@@ -45,9 +44,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Nicholas Steele
+    organization: 1Password
+    email: nick.steele@1password.com
 
 normative:
 
@@ -56,8 +55,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
-
+This is a test of the templating system
 
 --- middle
 
