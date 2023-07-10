@@ -23,12 +23,13 @@ title: "Credential Migration Data"
 category: info
 
 docname: draft-ietf-cpsig-cred-migrate-data-latest
-submissiontype: independent
 number: 00
 date:
 consensus: true
 v: 3
 area: AREA
+cat: std
+area: Security
 workgroup: None
 keyword:
  - next generation
