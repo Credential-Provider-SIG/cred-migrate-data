@@ -23,8 +23,8 @@ title: "Credential Migration Data"
 category: info
 
 docname: draft-ietf-cpsig-cred-migrate-data-latest
-submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
-number: 00 
+submissiontype: independent
+number: 00
 date:
 consensus: true
 v: 3
