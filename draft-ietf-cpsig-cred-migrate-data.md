@@ -56,7 +56,7 @@ informative:
 
 --- abstract
 
-This is a test of the templating system
+This is a test of the templating system and deployment
 
 --- middle
 
