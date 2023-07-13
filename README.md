@@ -1,6 +1,6 @@
-# Credential Migration Data
+# COMFORT - Credential Migration Data Format
 
-This is the working area for the IETF [CPSIG Working Group](https://datatracker.ietf.org/wg/cpsig/documents/) Internet-Draft, "Credential Migration Data".
+This is the working area for the IETF [CPSIG Working Group](https://datatracker.ietf.org/wg/cpsig/documents/) Internet-Draft, "COMFORT - Credential Migration Data Format".
 
 * [Editor's Copy](https://Credential-Provider-SIG.github.io/cred-migrate-data/#go.draft-ietf-cpsig-cred-migrate-data.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-cpsig-cred-migrate-data)
