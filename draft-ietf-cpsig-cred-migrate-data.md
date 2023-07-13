@@ -19,7 +19,7 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "Credential Migration Data"
+title: "COMFORT - Credential Migration Data Format"
 category: info
 
 docname: draft-ietf-cpsig-cred-migrate-data-latest
@@ -56,13 +56,18 @@ informative:
 
 --- abstract
 
-This is a test of the templating system and deployment
+CMFORT defines the data structure and format of credentials being passed or referenced between two applications and is meant to supplement CRIMP. 
 
 --- middle
+This is an internet draft document currently being developed by credential providers.
+
+This document will be a product of members of the FIDO alliance, independent credential providers, and the IETF community. It has not received public review nor has it been approved for publication  by any group. Further information on Internet Standards is available in Section 2 of RFC 7841.
+
+Information about the current status of this document, any errata, and how to provide feedback on it may be obtained at https://github.com/Credential-Provider-SIG/cred-migrate-data
 
 # Introduction
 
-TODO Introduction
+Traditionally, credenta
 
 
 # Conventions and Definitions
