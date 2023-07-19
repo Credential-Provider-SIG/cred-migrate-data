@@ -67,7 +67,7 @@ Information about the current status of this document, any errata, and how to pr
 
 # Introduction
 
-Traditionally, credenta
+Credential migration has traditionally been an infrequent occurence, when a user is attempting to migrate credentials from one credential provider to a new one, such as moving to a new password manager or mobile device. This has historically been a very manual process for credential providers, as there exists no normative structure to the credentials being exported by a credential provider. The goal of CMFORT is to define that normative data structure to allow better interoperability and control by resource owners over credentials that need to be migrated or referenced by one or more providers.
 
 
 # Conventions and Definitions
